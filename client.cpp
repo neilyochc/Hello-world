@@ -1,4 +1,4 @@
-#include "commen.h"
+#include "common.h"
 
 void echoClient(int sockfd);
 int main()
